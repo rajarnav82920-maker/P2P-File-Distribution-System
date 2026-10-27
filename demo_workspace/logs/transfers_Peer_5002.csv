@@ -1,0 +1,5 @@
+timestamp,direction,local_peer,remote_peer,file_name,chunk_index,bytes_transferred,duration_sec,throughput_kbps,status,error_message
+2026-10-26 23:10:29.457,UPLOAD,Peer_5002,Peer_5003,project_dataset.dat,1,65536,0.0018,36034.01,SUCCESS,
+2026-10-26 23:10:29.457,UPLOAD,Peer_5002,Peer_5003,project_dataset.dat,3,65536,0.0012,54343.21,SUCCESS,
+2026-10-26 23:10:29.458,UPLOAD,Peer_5002,Peer_5003,project_dataset.dat,1,0,0.0031,0.00,FAILED,'charmap' codec can't encode character '\u2191' in position 24: character maps to <undefined>
+2026-10-26 23:10:29.459,UPLOAD,Peer_5002,Peer_5003,project_dataset.dat,3,0,0.0035,0.00,FAILED,'charmap' codec can't encode character '\u2191' in position 24: character maps to <undefined>

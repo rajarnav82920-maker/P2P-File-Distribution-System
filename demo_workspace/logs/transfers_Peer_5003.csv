@@ -1,0 +1,5 @@
+timestamp,direction,local_peer,remote_peer,file_name,chunk_index,bytes_transferred,duration_sec,throughput_kbps,status,error_message
+2026-10-26 23:10:29.458,DOWNLOAD,Peer_5003,Peer_5001,project_dataset.dat,0,65536,0.0038,16671.44,SUCCESS,
+2026-10-26 23:10:29.462,DOWNLOAD,Peer_5003,Peer_5002,project_dataset.dat,1,65536,0.0071,8985.74,SUCCESS,
+2026-10-26 23:10:29.475,DOWNLOAD,Peer_5003,Peer_5001,project_dataset.dat,2,65536,0.0135,4739.20,SUCCESS,
+2026-10-26 23:10:29.475,DOWNLOAD,Peer_5003,Peer_5002,project_dataset.dat,3,65536,0.0086,7407.84,SUCCESS,

@@ -1,0 +1,7 @@
+# P2P - Peer-to-Peer File Distribution System
+# Requirements file
+# Standard library modules used: socket, threading, hashlib, os, json, time, sys, argparse, queue
+
+# External libraries for performance benchmarking and plotting:
+matplotlib>=3.7.0
+pandas>=2.0.0
