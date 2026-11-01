@@ -218,3 +218,20 @@ TCP is a stream protocol with no inherent message boundaries. Two `send()` calls
 
 ## 📜 License
 Developed for academic and educational project purposes. Free to use, modify, and extend.
+
+
+---
+
+## 🧪 Testing Instructions
+
+To run the project tests, use the following command:
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+To run the project demonstration:
+
+```bash
+python run_demo.py
+```
